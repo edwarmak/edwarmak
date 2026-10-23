@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mack</h1>
 <h3 align="center">A diverse and enthusiastic developer from Utah.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwarmak&label=Profile%20views&color=0e75b6&style=flat" alt="edwarmak" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwarmak" alt="edwarmak" /></a> </p>
+- 🔭 I’m currently working on **Typescript, React**
 
-- 🔭 I’m currently working on **i18n SaaS**
-
-- 🌱 I’m currently learning **Typescript, Vue**
+- 🌱 I’m currently learning **AI agentic coding**
 
 - 👯 I’m looking to collaborate on **web applications**
 
-- 🤝 I’m looking for help with **Typescript**
-
-- 👨‍💻 All of my projects are available at [makaylaedwards.herokuapp.com](makaylaedwards.herokuapp.com)
+- 🤝 I’m looking for help with **AI agentic coding**
 
 - 💬 Ask me about **React, i18n**
 
