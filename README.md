@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, i18n**
 
-- 📫 How to reach me **lilmack.edwards@gmail.com**
+- 📫 How to reach me **edwards.mack77@gmail.com**
 
 - ⚡ Fun fact **I love fishing!**
 
